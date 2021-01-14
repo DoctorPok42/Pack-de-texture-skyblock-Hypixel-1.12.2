@@ -20,8 +20,8 @@ sont modifié par le pack de textures fait pour le skyblock.
 
 Le faithful quand à lui va venir modifier tout le reste des block et items qui n'es pas prit en charge par le premier.
 
-Et pour finir la version de ce pack est en 1.12 - 1.12.2
+Et pour finir la version de ce pack est en 1.12 ou +
 
-        	                                                   - DoctorPok
+        	                                               - DoctorPok
 
-					              - Pack de texture, skyblock Hypixel
+					          - Pack de texture, skyblock Hypixel
