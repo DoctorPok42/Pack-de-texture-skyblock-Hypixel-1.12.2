@@ -22,6 +22,8 @@ Le faithful quand à lui va venir modifier tout le reste des block et items qui 
 
 Et pour finir la version de ce pack est en 1.12 ou +
 
+<a href="https://www.codacy.com/gh/DoctorPok42/Pack-de-texture-skyblock-Hypixel-1.12.2/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DoctorPok42/Pack-de-texture-skyblock-Hypixel-1.12.2&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/31c785fe8e814719b6496ac6df8b61c8"/></a>
+
         	                                               - DoctorPok
 
 					          - Pack de texture, skyblock Hypixel
