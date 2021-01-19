@@ -25,7 +25,6 @@ Le faithful quand à lui va venir modifier tout le reste des block et items qui 
 
 Et pour finir la version de ce pack est en 1.12 ou +
 
-
         	                                               - DoctorPok
 
 					          - Pack de texture, skyblock Hypixel
